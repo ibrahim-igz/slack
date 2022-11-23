@@ -1,0 +1,4 @@
+flask
+Flask
+slack-bolt
+slack-sdk
